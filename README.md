@@ -1,21 +1,15 @@
 <h1 align="center">Hola 👋, soy L. Daniel Rodríguez</h1>
-<h3 align="center">Un apasionado desarrollador front-end de la Ciudad de México</h3>
+<h3 align="center">Desarrollador Front-End, ideas Digitales e Innovadoras.</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=danielroxs&label=Visitas%20al%20perfil&color=0e75b6&style=flat" alt="danielroxs" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=danielroxs" alt="danielroxs" />
+  <a href="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" width="15%" alt="danielroxs" />
   </a>
 </p>
-
-<p align="center">
-  <img src="https://giphy.com/gifs/scaler-official-bugs-developer-qa-UPqYp2tj61XlBhlPbH" alt="Programming Banner" width="35%" />
-</p>
-
-
 
 <p align="center">
   <b>🔭 Actualmente estoy trabajando en</b> [NV](https://nv10.vercel.app/)
