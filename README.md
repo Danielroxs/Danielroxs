@@ -18,7 +18,7 @@
 - 🔭 I’m currently working on **NV**
 - 🌱 I’m currently learning **GSAP, Three.js, and advanced responsive UI design**
 - 👯 I’m looking to collaborate on **modern frontend projects**
-- 💼 My portfolio: **[portfolio-pi-sandy-29.vercel.app](https://www.luisdaniel.dev/)**
+- 💼 My portfolio: **[luisdaniel.dev](https://www.luisdaniel.dev/)**
 - 💬 Ask me about **React, Tailwind CSS, JavaScript, HTML, and Sass**
 - ⚡ Fun fact: **I’m a frontend developer by day and a martial artist by night**
 
